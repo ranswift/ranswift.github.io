@@ -1,0 +1,33 @@
+body {
+  background-color: #ADD8E6;
+}
+h1 {
+  boarder: solid;
+  text-align: center;
+  font-size: 100px;
+}
+#pic1{
+  image-orientation: center;
+  width:100%;
+}
+nav ul li {
+  display: inline-block;
+  padding: 15px 260px;
+}
+#gps{
+  margin: 0 auto;
+  width: 80em;
+  height: 200px;
+  width: 200px;
+}
+article h2{
+  text-align: center;
+  text-decoration: underline;
+}
+footer ul li{
+  display: inline-block;
+  padding: 15px 200px;
+}
+#boulder{
+  image-orientation: center;
+}
